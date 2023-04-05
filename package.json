@@ -1,0 +1,19 @@
+{
+  "name": "dollar-next",
+  "version": "1.0.0",
+  "description": "rewritten jquery",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "tsc && webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.0.3",
+    "webpack": "^5.77.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
+  }
+}
