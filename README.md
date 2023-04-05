@@ -1,0 +1,2 @@
+# dollar-next
+rewritten jquery
